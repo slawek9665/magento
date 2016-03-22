@@ -1,3 +1,4 @@
+media/
 .htaccess.sample
 .modgit/
 .modman/
@@ -89,7 +90,6 @@ LICENSE_AFL.txt
 LICENSE.html
 LICENSE.txt
 LICENSE_EE*
-media/
 /api.php
 nbproject/
 pear
