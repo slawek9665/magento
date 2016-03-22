@@ -89,15 +89,7 @@ LICENSE_AFL.txt
 LICENSE.html
 LICENSE.txt
 LICENSE_EE*
-/mage
-media/customer/
-media/dhl/
-media/downloadable/
-media/.htaccess
-media/import/
-media/xmlconnect/
-media/catalog/product/cache/
-media/catalog/product/placeholder/default/
+media/
 /api.php
 nbproject/
 pear
